@@ -1,0 +1,5 @@
+C:\Users\salak403\Downloads\Juan_Figueroa_Habitaciones\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Downloads\Juan_Figueroa_Habitaciones\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\salak403\Downloads\Juan_Figueroa_Habitaciones\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\salak403\Downloads\Juan_Figueroa_Habitaciones\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Downloads\Juan_Figueroa_Habitaciones\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json
