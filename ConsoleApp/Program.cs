@@ -12,7 +12,7 @@ habitacion1.Elementos = new List<Elementos>();
 habitacion1.Elementos.Add(new Elementos() { Id = 1, seccion = "humeda", paredColor = "Azul Oscuro", Televisores = 0, banos = 2 });
 
 habitacion1.Restricciones = new List<Restricciones>();
-habitacion1.Restricciones.Add(new Restricciones() { Id = 1, ruido = true, numPersonas = 2, animales = false});
+habitacion1.Restricciones.Add(new Restricciones() { Id = 1, ruido = false, numPersonas = 2, animales = false});
 
 
 Console.WriteLine(habitacion1.Tipo);
